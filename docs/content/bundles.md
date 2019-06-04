@@ -186,3 +186,9 @@ you intended and that they are structured correctly. For example:
 ```bash
 opa run bundle.tar.gz
 ```
+
+Or start the server with a local bundle:
+
+```bash
+opa run -s bundle.tar.gz
+```
